@@ -163,7 +163,7 @@ hr {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 4rem;
+  gap: 3rem;
   min-height: 100vh;
 }
 
@@ -247,7 +247,7 @@ hr {
 
 .back-button-article {
   position: fixed;
-  left: calc(50% - 400px - 6rem);
+  left: calc(50% - 400px - 5rem);
   top: 50vh;
   transform: translateY(-50%);
   width: 2rem;
